@@ -23,6 +23,7 @@ Experiments on 50 real-world networks (up to 20 million nodes) demonstrate near-
 ## 📂 File Structure
 
 - `myMCP.py`: Main implementation of the proposed MCP algorithm.
+- `example_network.txt`: Example input network file
 - `README.md`: Project overview and instructions.
 
 ## 🚀 Usage
