@@ -31,4 +31,15 @@ Experiments on 50 real-world networks (up to 20 million nodes) demonstrate near-
 2. Set `LayerNum` to define how many top core layers to use in the first decomposition step.
 3. Run:
 
+## 📄 Citation
+If you use this code in your work, please cite:
+@article{fan2025mcp,
+  title={A fast maximum clique algorithm based on network decomposition for large sparse networks},
+  author={Fan, Tianlong and Jiang, Wenjun and Zhang, Yi-Cheng and L{\"u}, Linyuan},
+  journal={Chaos, Solitons \& Fractals},
+  volume={194},
+  pages={116239},
+  year={2025},
+  publisher={Elsevier}
+}
 
